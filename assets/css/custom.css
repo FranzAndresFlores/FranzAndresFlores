@@ -1,0 +1,10 @@
+.label-education {
+    color: #6c757d;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.container-component {
+    max-height: 78vh;
+    overflow: auto;
+}
